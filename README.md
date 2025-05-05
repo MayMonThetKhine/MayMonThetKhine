@@ -1,24 +1,10 @@
 ## Hi there 👋
 
-<!--
-**MayMonThetKhine/MayMonThetKhine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm May ✨, an environmental and data enthusiast , from Myanmar .
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### I'm May, an environmental and data enthusiast , from Myanmar .
-
-* A Master student 👩‍🎓 in the University of Leeds, taking the course Environmental Data Science & Analytics
-* Electronic engineering as an undergard degree 👩‍💻
-* Transition to Environmental field from 2020, worked as a junior environmental expert for 4 years in one of the consulting firms in Myanmar
-* Loves nature 🏞️ and numbers 🔢
+* 🌱 A Master student 👩‍🎓 in the University of Leeds, taking the course Environmental Data Science & Analytics,
+* ⚡ Electronic engineering as an undergrad degree 👩‍💻,
+* 💬 Transition to Environmental field from 2020, worked as a junior environmental expert for 4 years in one of the consulting firms in Myanmar,
+* 🔭 Loves nature 🏞️ and numbers 🔢.
 
   
