@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there
 
-### I'm May ✨, an environmental and data enthusiast, from Myanmar .
+### I'm May ✨, an environmental and data professional, from Myanmar.
 
 * 🌱 A Master student 👩‍🎓 the University of Leeds, taking the course Environmental Data Science & Analytics (2024-2025),
 * ⚡ Electronic engineering as an undergrad degree 👩‍💻,
